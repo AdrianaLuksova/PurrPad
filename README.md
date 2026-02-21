@@ -1,6 +1,5 @@
 # PurrPad
 
-![MicroPython](https://img.shields.io/badge/MicroPython-blue.svg)
 ![Raspberry Pi Pico W](https://img.shields.io/badge/Raspberry%20Pi-Pico%20W-red.svg)
 ![Hardware](https://img.shields.io/badge/Hardware-Open%20Source-green.svg)
 
